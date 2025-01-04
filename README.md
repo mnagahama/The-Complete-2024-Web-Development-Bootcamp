@@ -5,7 +5,7 @@ Repositório sobre os estudos do curso
 <p>Legenda: ✔️ concluido, ⬜ falta concluir, 📂 projeto </p>
  
 <p>✔️ Introduction to HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/Introduction%20to%20HTML/2.4%20Movie%20Ranking%20Project"> 📂</a></p>
-<p>⬜ Intermediate HTML</p>
+<p>✔️ Intermediate HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/Intermediate%20HTML/3.4%20Birthday%20Invite%20Project"> 📂</a></p>
 <p>⬜ Multi-Page Websites</p>
 <p>⬜ Introduction to CSS</p>
 <p>⬜ CSS Properties</p>
