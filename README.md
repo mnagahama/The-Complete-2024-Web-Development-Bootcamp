@@ -4,10 +4,10 @@ Repositório sobre os estudos do curso
 
 <p>Legenda: ✔️ concluido, ⬜ falta concluir, 📂 projeto </p>
  
-<p>✔️ Introduction to HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/Introduction%20to%20HTML/2.4%20Movie%20Ranking%20Project"> 📂</a></p>
-<p>✔️ Intermediate HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/Intermediate%20HTML/3.4%20Birthday%20Invite%20Project"> 📂</a></p>
+<p>✔️ Introduction to HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/01.Introduction%20to%20HTML/2.4%20Movie%20Ranking%20Project"> 📂</a></p>
+<p>✔️ Intermediate HTML <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/02.Intermediate%20HTML/3.4%20Birthday%20Invite%20Project"> 📂</a></p>
 <p>✔️ Multi-Page Websites <a target="_blank" href="https://github.com/mnagahama/The-Complete-2024-Web-Development-Bootcamp/tree/main/03.Multi-Page%20Websites/4.3%20HTML%20Porfolio%20Project"> 📂</a></p>
-<p>⬜ Introduction to CSS</p>
+<p>✔️ Introduction to CSS</p>
 <p>⬜ CSS Properties</p>
 <p>⬜ Intermediate CSS</p>
 <p>⬜ Advanced CSS</p>
@@ -15,7 +15,6 @@ Repositório sobre os estudos do curso
 <p>⬜ Grid</p>
 <p>⬜ Bootstrap</p>
 <p>⬜ Web Design School - Create a Website that People Love</p>
-<p>⬜ Capstone Project 2 - Personal Site</p>
 <p>⬜ Introduction to JavaScript ES6</p>
 <p>⬜ Intermediate Javascript</p>
 <p>⬜ The Document Object Model (DOM)</p>
